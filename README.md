@@ -12,7 +12,6 @@ Aspiring Frontend Developer & Creative Learner<br><br>🙋‍♀️Contact me th
 ![](https://github-readme-stats.shion.dev/api?username=roopal045-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=roopal045-cloud&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=roopal045-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roopal045-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
