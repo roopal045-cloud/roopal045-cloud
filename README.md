@@ -1,27 +1,83 @@
-Hi,I am Roopal
-# 💫 About Me:
-Aspiring Frontend Developer & Creative Learner<br><br>🙋‍♀️Contact me through Gmail for collaborations and opportunities 📩<br><br>🎗️Skilled in HTML, CSS, JavaScript, and Bootstrap<br><br>• Currently learning UI/UX design with Figma and also working on react<br><br>• Passionate about building responsive and modern websites<br><br>😊Actively seeking internship opportunities to gain real-world experience<br><br>👍Focused on improving coding, design, and project-building skills<br><br>Goal: Turn creativity into professional digital solutions 🚀
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Roopal</h1>
 
+<h3 align="center">
+Frontend Developer | UI/UX Learner | Building Modern Web Experiences 🚀
+</h3>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khandelwalroopal045@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=roopal045-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=roopal045-cloud&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=roopal045-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=roopal045-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=roopal045-cloud&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;HTML+CSS+JavaScript+Enthusiast;UI%2FUX+Learner;Building+Modern+Web+Apps;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=roopal045-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🙋‍♀️ Aspiring Frontend Developer & Creative Learner  
+- 🎯 Skilled in HTML, CSS, JavaScript, Bootstrap  
+- 🎨 Currently learning UI/UX (Figma) + React basics  
+- 💻 Passionate about building responsive and modern websites  
+- 🚀 Actively seeking internships & real-world projects  
+- 🎯 Goal: Turn creativity into impactful digital products  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:khandelwalroopal045@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/roopal-khandelwal-426957407">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roopal045-cloud&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roopal045-cloud&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roopal045-cloud&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roopal045-cloud&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+💙 Thanks for visiting my profile 💙  
+</p>
