@@ -64,9 +64,7 @@ Frontend Developer | UI/UX Learner | Building Modern Web Experiences 🚀
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roopal045-cloud&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=roopal045-cloud&theme=radical)
 
 ---
 
