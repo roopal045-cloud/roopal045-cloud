@@ -63,16 +63,18 @@ Frontend Developer | UI/UX Learner | Building Modern Web Experiences 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=roopal045-cloud&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roopal045-cloud&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roopal045-cloud&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=roopal045-cloud&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=roopal045-cloud&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roopal045-cloud&layout=compact&theme=radical" />
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=roopal045-cloud&theme=radical)
