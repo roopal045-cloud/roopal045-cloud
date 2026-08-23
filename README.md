@@ -1,13 +1,10 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Roopal</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Developer | UI/UX Learner | Building Modern Web Experiences 🚀
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D5&height=180&section=header&text=Hi%20👋,%20I'm%20Roopal&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;HTML+CSS+JavaScript+Enthusiast;UI%2FUX+Learner;Building+Modern+Web+Apps;Always+Learning+New+Things&center=true&width=500&height=50">
-</p>
+<h2>💻 Full Stack Developer | UI/UX Learner | Open Source Enthusiast</h2>
+</div>
 
 ---
 
@@ -47,6 +44,10 @@ Frontend Developer | UI/UX Learner | Building Modern Web Experiences 🚀
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
