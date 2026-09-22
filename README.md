@@ -79,7 +79,7 @@
 
 <div align="left">
 
-<img src="https://streak-stats.demolab.com?user=priyanshiy1312-ui&theme=tokyonight&hide_border=true&border_radius=12" width="75%"/>
+<img src="https://streak-stats.demolab.com?user=roopal045-cloud&theme=tokyonight&hide_border=true&border_radius=12" width="75%"/>
 
 </div>
 
@@ -87,7 +87,7 @@
 
 <div align="left">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshiy1312-ui&theme=tokyo-night&hide_border=true&area=true" width="85%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roopal045-cloud&theme=tokyo-night&hide_border=true&area=true" width="85%"/>
 
 </div>
 
