@@ -61,19 +61,35 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roopal045-cloud&show_icons=true&theme=radical" />
-</p>
+<div align="left">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=roopal045-cloud&theme=radical" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roopal045-cloud&theme=tokyonight" width="28%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roopal045-cloud&layout=compact&theme=radical" />
-</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roopal045-cloud&theme=tokyonight" width="28%"/>
+
+</div>
+
+
+---
+
+# 🔥 GitHub Activity
+
+<div align="left">
+
+<img src="https://streak-stats.demolab.com?user=priyanshiy1312-ui&theme=tokyonight&hide_border=true&border_radius=12" width="75%"/>
+
+</div>
+
+<br>
+
+<div align="left">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshiy1312-ui&theme=tokyo-night&hide_border=true&area=true" width="85%"/>
+
+</div>
 
 ---
 ## 🏆 GitHub Trophies
