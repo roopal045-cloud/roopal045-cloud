@@ -65,14 +65,11 @@
 
 <div align="left">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roopal045-cloud&theme=tokyonight" width="28%"/>
+<img src="./profile/stats.svg" width="48%"/>
 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roopal045-cloud&theme=tokyonight" width="28%"/>
+<img src="./profile/top-langs.svg" width="40%"/>
 
 </div>
-
-
 ---
 
 # 🔥 GitHub Activity
