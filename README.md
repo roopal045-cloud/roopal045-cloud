@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-- 🙋‍♀️ Aspiring Frontend Developer & Creative Learner  
+- 🙋‍♀️ Aspiring Full Stack Developer & Creative Learner  
 - 🎯 Skilled in HTML, CSS, JavaScript, Bootstrap  
 - 🎨 Currently learning UI/UX (Figma) + React basics  
 - 💻 Passionate about building responsive and modern websites  
