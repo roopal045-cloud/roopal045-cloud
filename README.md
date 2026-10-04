@@ -11,7 +11,7 @@
 ## 💫 About Me
 
 - 🙋‍♀️ Aspiring Full Stack Developer & Creative Learner  
-- 🎯 Skilled in HTML, CSS, JavaScript, Bootstrap  
+- 🎯 Skilled in HTML, CSS, JavaScript, Bootstrap , PHP
 - 🎨 Currently learning UI/UX (Figma) + React basics  
 - 💻 Passionate about building responsive and modern websites  
 - 🚀 Actively seeking internships & real-world projects  
